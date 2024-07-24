@@ -1,0 +1,19 @@
+.uneven,
+.unevenalt {
+    background-color:rgb(236, 180, 190); 
+    font-family:"Verdana", "DejaVu Sans", "Sans-Serif";
+}
+
+.unevenalt {
+    font-size: 24px
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#two {background-color: rgb(100, 181, 100);
+    font-size: 24px;
+     font-weight:bold
+}
